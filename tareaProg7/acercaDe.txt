@@ -1,0 +1,20 @@
+
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	+					+
+	+		Bloc de notas de Marcos		+
+	+					+	
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+	-En la opción del Menú "Archivo", tenemos las funciones de: Nuevo, Abrir, Guardar,
+	 Guardar Como, Impirmir y Salir.
+	
+	-En la opción del Menú "Editar", tenemos las funciones de: Copiar, Cortar, Pegar,
+	 Hora y Fecha, Seleccionar todo el texto y Borrar, con Ctrl+Z y Ctrl+Y te deshace y 
+	 te rehace.
+
+	-En la opción del Menú "Acerca de", tenemos la función de: Bloc de notas Marcos,
+	 en el cual, sale una ventana explicativa con todas las funciones del programa.
+
+	-Si clicas en la "X" principal y contiene datos, te saldrá un diálogo por si quiere
+	 guardar los datos antes de cerrarlo.
